@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Coco Forum module.
+ */
+
+// We do not have module code (yet), but Drupal requires this .module file.
