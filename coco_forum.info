@@ -2,7 +2,7 @@ name = Coco Forum
 description = Provides enhanced forum functionality.
 core = 7.x
 package = Forum
-dependencies[] = comments
+dependencies[] = comment
 dependencies[] = forum
 dependencies[] = taxonomy
 
